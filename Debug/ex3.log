@@ -1,0 +1,17 @@
+﻿Build started 11/7/2017 1:13:41 PM.
+     1>Project "C:\Users\josef\Desktop\מונחה עצמים\מעבדה cpp\ex3\ex3\ex3\ex3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ex3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ex3.vcxproj -> C:\Users\josef\Desktop\מונחה עצמים\מעבדה cpp\ex3\ex3\Debug\ex3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ex3.unsuccessfulbuild".
+         Touching "Debug\ex3.lastbuildstate".
+     1>Done Building Project "C:\Users\josef\Desktop\מונחה עצמים\מעבדה cpp\ex3\ex3\ex3\ex3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
